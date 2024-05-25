@@ -38,7 +38,7 @@ Welcome to the Grocery Store Application! This web app allows you to manage prod
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/grocery-store.git
+    git clone https://github.com/SreejaSeethini/grocery-store.git
     cd grocery-store
     ```
 
